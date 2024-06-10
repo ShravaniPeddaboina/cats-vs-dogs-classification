@@ -1,1 +1,1 @@
-# cats-vs-dogs-classification
+CATS VS DOGS IMAGE CLASSIFICATION
